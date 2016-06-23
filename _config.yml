@@ -1,0 +1,14 @@
+layout_spectrum: 0.26334257796406746
+typography_spectrum: 0.2243059661705047
+color:
+  brandStrength: 0.27716381615027785
+  lightness: 0.2681314868386835
+  saturation: 0.4140227127354592
+  rhythmicContrast: 0.7952964743599296
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: BlueGreenTurquoise
